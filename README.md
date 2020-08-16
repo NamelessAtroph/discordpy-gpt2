@@ -1,4 +1,2 @@
 # discordpy-gpt2
-discordpy bot with gpt2 functionality
-
-see the wiki for information on how to run
+This bot will NOT run unless you include necessary files created by teaching a GPT-2 AI. Please follow the instructions in the wiki concerning how to run the bot properly.
