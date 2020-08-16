@@ -8,10 +8,8 @@ import gpt_2_simple as gpt2
 
 #client = discord.Client()
 prefix = '!'
-desc = "Bot created by Vhou#2462."
+desc = "Bot created by [your name]"
 bot = Bot(command_prefix=prefix, description=desc)
-bot.remove_command('help')
-vpfp = 'https://i.imgur.com/JuqlXQa.jpg'
 version= 'v1'
 token='xxxxx'
 
